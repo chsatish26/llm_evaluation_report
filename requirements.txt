@@ -1,0 +1,11 @@
+# Core dependencies
+boto3 
+python-dotenv 
+reportlab 
+
+# Optional dependencies
+openai   # Required only if using OpenAI models
+
+# For development
+pytest 
+black 
